@@ -1,0 +1,1 @@
+insert into transaction (id, transaction_code, reference_number, amount, transaction_status, created_at, updated_at) VALUES (1, '123', '123', 10000, 'PENDING', '2025-03-12 00:00:00.000', '2025-03-12 00:00:00.000');
